@@ -9,7 +9,7 @@
   
   inputs.src-pararules-0_20_0.flake = false;
   inputs.src-pararules-0_20_0.owner = "paranim";
-  inputs.src-pararules-0_20_0.ref   = "refs/tags/0.20.0";
+  inputs.src-pararules-0_20_0.ref   = "0_20_0";
   inputs.src-pararules-0_20_0.repo  = "pararules";
   inputs.src-pararules-0_20_0.type  = "github";
   
