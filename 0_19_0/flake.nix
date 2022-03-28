@@ -11,7 +11,6 @@
   inputs.src-pararules-0_19_0.ref   = "refs/tags/0.19.0";
   inputs.src-pararules-0_19_0.owner = "paranim";
   inputs.src-pararules-0_19_0.repo  = "pararules";
-  inputs.src-pararules-0_19_0.dir   = "";
   inputs.src-pararules-0_19_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
